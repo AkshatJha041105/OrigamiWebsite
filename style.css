@@ -1,11 +1,14 @@
 h1{
+    border: solid;
     background-color: #0000FF;
 }
 h2{
     background-color: #00FFBF;
+    border: solid;
 }
 .a{
     background-color: #FFFF00;
+    border: solid;
 }
 h3{
     background-color: #9ACD32;
